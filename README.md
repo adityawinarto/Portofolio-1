@@ -1,1 +1,3 @@
 # Portofolio-1
+
+Portofolio ini berisi rangkaian project akademik yang menunjukkan kemampuan dalam metode numerik, statistika komputasi, dan analisis data keuangan. Di dalamnya terdapat implementasi metode Least Square dan regresi linear menggunakan MATLAB/Octave lengkap dengan visualisasi hubungan data dan garis regresi, serta dokumentasi langkah perhitungan dan manualisasi algoritma. Selain itu, portofolio ini mencakup proyek multiple linear regression dengan studi kasus data nilai tukar mata uang, mulai dari eksplorasi data, analisis korelasi, pemodelan, hingga evaluasi model melalui perbandingan nilai aktual dan prediksi. 
